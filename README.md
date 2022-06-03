@@ -1,4 +1,5 @@
-### Hi there, I'm <a href="https://prabhavms.github.io/" target="_blank">Prabhav Mishra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://prabhavms.github.io/" target="_blank">Prabhav Mishra</a> 
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/prabhavms)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://prabhavms.github.io/)
@@ -10,14 +11,14 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=prabhavms.prabhavms)
 
 I'm a fresher at Vellore Institute of Technology pursuing CSE spec. Information Security.I'm still in my learning phase I love coding and try learning things that excite me, I am a cybersec enthusiast and do a little competetive coding aswell.
-
+<!-- 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-
+ -->
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prabhavmishra7@gmail.com
+- 📫 How to reach me: prabhav@elude.in
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
