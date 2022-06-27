@@ -16,8 +16,8 @@ I'm a fresher at Vellore Institute of Technology pursuing CSE spec. Information 
  -->
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool
-- 💬 Ask me about anything, I am happy to help
+- 👨🏻‍💻 I’m currently learning vapt and back end.
+- 💬 HMU on linkedin if you wanna talk.
 - 📫 How to reach me: prabhav@elude.in
 
 <div>
