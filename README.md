@@ -10,7 +10,7 @@
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=prabhavms.prabhavms)
-A sophomore cybersecurity enthusiast with major interest’s in web exploitation and cryptography I have experience with nmap , metasploit , netcat , hashcat , sublist3r , gobuster , dirbuster , jhon the ripper and burp suite. I love development and competitive coding as well . I am still in my developing phase so would love to meet new people who have similar interest’s. 
+A cybersecurity enthusiast with major interest’s in web exploitation and cryptography I have experience with nmap , metasploit , netcat , hashcat , sublist3r , gobuster , dirbuster , jhon the ripper and burp suite. I love development and competitive coding as well . I am still in my developing phase so would love to meet new people who have similar interest’s. 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <space>
@@ -55,3 +55,4 @@ A sophomore cybersecurity enthusiast with major interest’s in web exploitation
 
 
 </br>
+
