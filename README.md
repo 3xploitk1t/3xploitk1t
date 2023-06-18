@@ -44,6 +44,9 @@ A sophomore cybersecurity enthusiast with major interest’s in web exploitation
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png"  title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;
  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/php/php_64x64.png"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"  title="GO" alt="GO" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 <p>
 
