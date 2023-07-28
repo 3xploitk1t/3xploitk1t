@@ -10,7 +10,7 @@
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=prabhavms.prabhavms)
-A sophomore cybersecurity enthusiast with major interest’s in web exploitation and cryptography I have experience with nmap , metasploit , netcat , hashcat , sublist3r , gobuster , dirbuster , jhon the ripper and burp suite. I love development and competitive coding as well . I am still in my developing phase so would love to meet new people who have similar interest’s. 
+Enthusiastic backend developer with a strong desire to learn and grow in the fields of Golang and Node.js. While I may be at and intermediate level, I am eager to apply my programming skills and passion for backend development to contribute to innovative projects. I have experience with building golang and nodejs api's. I also have some extent of experience in DevOps.
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3xpl0itk1t&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <space>
@@ -25,7 +25,7 @@ A sophomore cybersecurity enthusiast with major interest’s in web exploitation
 -  <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on something cool.
 -  <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning fullstack development and some security.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Reach out to me on Linkedin.
--  <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: prabhav@elude.in
+-  <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: prabhavmishra7@gmail.com
 
 </div>
 
